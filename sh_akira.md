@@ -17,7 +17,7 @@
   - 業務経験：C#, C, VB.NET, SQL, Objective-c, Java, C++
 - 日本語
   - ネイティブ
-- 英語（例）
+- 英語
   - 読み書きが出来る・簡単な会話が出来る
 
 ### OSやフレームワーク
@@ -33,6 +33,7 @@
 
 - データシートを元に回路図を作成して組み込みソフトまで自分で書いたりする
 - HTC Vive/Oculus Rift/LeapMotion/Perception Neuron/IKinema Orionの開発経験があります(個人開発/Neuron以外は所持しています)。
+- 個人でバーチャルモーションキャプチャーの開発をしている https://sh-akira.github.io/VirtualMotionCapture/
 
 ## 強み
 
