@@ -62,6 +62,8 @@
 
 職務: プログラマ/SE
 
+- 細かい試作案件等は省略しています。自身が担当した部分のみ記載しています。
+
 #### 2013 タクシー清算システム
 
 - Excel VBA
@@ -104,40 +106,26 @@
 
 #### 2014-19 9ch IPカメラマルチビューア
 
-- Yocto Linux, u-boot, GStreamer, DirectFB
+- Yocto Linux, u-boot, GStreamer, DirectFB, C, C++
 
 #### 2014-15 出退勤システム
 
 - Windows Embedded, 回路設計, 組み込みソフトウェア(PICマイコン), 基板作成
 
-#### 
+#### 2015 カメラビューア用ネットワークリモコン
 
-- 
+- 組み込みソフトウェア(STM32), TCP
 
-#### 
+#### 2016 サイクルコンピュータ用Androidアプリ
 
-- 
+- Java, BLE, Google Map, 高徳地図(中国向け)
 
-#### 
+#### 2016-19 在宅医療見守り支援システム
 
-- 
+- クライアントサイド：Xamarin.Forms(UWP/Android/iOS), BLE(各種バイタル機器、ウェアラブルデバイス), SkyWay(ビデオ通話), SSL/TLS
+- サーバーサイド：Windows Server 2012R2, C#, MySQL
+- その他：SSMIX2電子カルテ連携、MFER心電図共有、MEDIS薬剤データベース、血液検査会社データ連携、透析装置連携、QRコード等各種データ連携
 
-#### 
+#### 2017-19 16ch IPカメラビューア
 
-- 
-
-#### 
-
-- 
-
-#### 
-
-- 
-
-#### 
-
-- 
-
-#### 
-
-- 
+- Ubuntu, GRUB, Gstreamer/VLC, Intel Media SDK, VAAPI, GTK、H.265
