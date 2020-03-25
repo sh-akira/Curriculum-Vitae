@@ -26,13 +26,13 @@
   - 一番使う：Windows
   - 業務経験：Windows, Linux(Ubuntu/Yocto), iOS, Android
 - フレームワーク類
-  - 業務経験：Xamarin.Forms, Qt, 組み込み系(IARやEclipseベースの開発環境)
+  - 業務経験：Unity, Xamarin.Forms, Qt, 組み込み系(IARやEclipseベースの開発環境)
   - 個人開発：Unity
 
 ### その他
 
 - データシートを元に回路図を作成して組み込みソフトまで自分で書いたりする
-- HTC Vive/Oculus Rift/LeapMotion/Perception Neuron/IKinema Orionの開発経験があります(個人開発/Neuron以外は所持しています)。
+- Valve Index/HTC Vive/Oculus Rift/LeapMotion/Perception Neuron/IKinema Orionの開発経験があります(個人開発/Neuron以外は所持しています)。
 - 個人でバーチャルモーションキャプチャーの開発をしている https://sh-akira.github.io/VirtualMotionCapture/
 
 ## 強み
@@ -45,6 +45,10 @@
 - 歌舞伎座.tech#15「バーチャルキャストを支える技術」
   - バーチャルモーションキャプチャーとキャリブレーション
     - https://www.pixiv.net/fanbox/creator/10267568/post/168685
+
+- XR Kaigi
+  - VR用アバターとしてのVRMとバーチャルモーションキャプチャー
+    - https://www.pixiv.net/fanbox/creator/10267568/post/693474
 
 ## 職務経歴
 
@@ -130,3 +134,14 @@
 #### 2017-19 16ch IPカメラビューア
 
 - Ubuntu, GRUB, Gstreamer/VLC, Intel Media SDK, VAAPI, GTK、H.265
+
+### 2019/05 - : 合同会社DMM.com
+
+職務: チーフエンジニア
+
+#### 2019 VRゲーム BOW MAN
+
+- Unity, C#, Steam VR, Oculus
+- https://bowman.vrlab.dmm.com/ja/
+
+
