@@ -26,19 +26,19 @@
   - 一番使う：Windows
   - 業務経験：Windows, Linux(Ubuntu/Yocto), iOS, Android
 - フレームワーク類
-  - 業務経験：Unity, Xamarin.Forms, Qt, 組み込み系(IARやEclipseベースの開発環境)
-  - 個人開発：Unity
+  - 業務経験：Unity, VR, Xamarin.Forms, Qt, 組み込み系(IARやEclipseベースの開発環境)
 
 ### その他
 
 - データシートを元に回路図を作成して組み込みソフトまで自分で書いたりする
-- Valve Index/HTC Vive/Oculus Rift/LeapMotion/Perception Neuron/IKinema Orionの開発経験があります(個人開発/Neuron以外は所持しています)。
-- 個人でバーチャルモーションキャプチャーの開発をしている https://sh-akira.github.io/VirtualMotionCapture/
+- Valve Index/HTC Vive, Cosmos/Oculus Rift, Quest/LeapMotion/Perception Neuron/IKinema Orion等々VRやモーションの開発経験があります
+- 個人でバーチャルモーションキャプチャーの開発をしている https://vmc.info/
 
 ## 強み
 
 - どんなものでもまずは自分で作ってみる(小さいものだと基板をおこすところから大きいものだと家具まで何でも)
 - 一人でアプリケーションを0から製品化、サポートまで行ったりしている
+- チームメンバー間のコミュニケーション緩衝地帯になれる
 
 ## 登壇歴
 
@@ -49,6 +49,27 @@
 - XR Kaigi
   - VR用アバターとしてのVRMとバーチャルモーションキャプチャー
     - https://www.pixiv.net/fanbox/creator/10267568/post/693474
+
+- Standalone xR Meetup #04
+  - VR用アバターとしてのVRMとバーチャルモーションキャプチャー
+    - https://standalone-vr.connpass.com/event/153448/
+
+- DMM meetup #27 〜DMMのVR/3Dアバター領域の0→1を語る夜〜
+  - 【令和最新版】意のままに身体を動かすキャリブレーション
+    - https://speakerdeck.com/sh_akira/ling-he-zui-xin-ban-yi-falsemamanishen-ti-wodong-kasukiyariburesiyon
+
+- トラッキング技術勉強会
+  - トラッキングできたらアバターを動かしたい！
+    - https://speakerdeck.com/sh_akira/toratukingudekitara-abatawodong-kasitai
+
+- DMMのメタバース？「Connect Chat」開発者座談会！
+  - VRプラットフォーム 開発者座談会
+    - https://dmm.connpass.com/event/231013/
+
+- 新機能＆新キービジュアル初公開！DMM Connect Chat公式イベント
+  - 新機能おひろめ会
+    - https://connect-chat.vrlab.dmm.com/events/01G2P85MBZJSQ0FHWB43RFSBA3/
+
 
 ## 職務経歴
 
@@ -137,11 +158,62 @@
 
 ### 2019/05 - : 合同会社DMM.com
 
-職務: チーフエンジニア
+職務: チーフエンジニア、コミュニティマネージャー  
+複数プロジェクトのプロダクトオーナーやメンバーとの1on1や目標設定などもしています
 
 #### 2019 VRゲーム BOW MAN
 
+- 担当：Unityエンジニア
 - Unity, C#, Steam VR, Oculus
 - https://bowman.vrlab.dmm.com/ja/
 
+#### 2019 実績未公開のVRゲーム
+
+- 担当：Unityエンジニア、アバターの挙動
+- Unity, C#, Steam VR, Oculus
+
+#### 2019-22 アバター配信プラットフォーム DMM VR Connect
+
+- 担当：PO
+- Auth0、AWS
+- https://connect.vrlab.dmm.com/
+
+#### 2019-22 DMM VR Connect SDK (DVRSDK)
+
+- 担当：PO、Unityエンジニア
+- Unity, C#, C++, Steam VR, Oculus、UnityXR
+- https://github.com/dmm-com/vrlab-dvrsdk
+- 記事の執筆
+  - https://inside.dmm.com/entry/2021/04/16/DMMVRConnect01
+
+#### 2019 VRゲームモックキット
+
+- 担当：Unityエンジニア
+- Unity, C#
+- VRゲームを作る際に必要なOculus/SteamVRを統一するインターフェースやUI実装等の基本パック
+
+#### 2020 チャットBotVTuberシステム
+
+- 担当：PO
+- Unity, C#
+
+#### 2020 イライラ棒風VRゲームモック
+
+- 担当：Unityエンジニア
+- Unity, C#
+- マップデータから自動でメッシュ生成を行ってイライラ棒をアバターで遊べるゲームモック
+
+
+#### 2019 VRゲーム BOW MAN
+
+- 担当：Unityエンジニア
+- Unity, C#, Steam VR, Oculus
+- https://bowman.vrlab.dmm.com/ja/
+
+#### 2020-22 VRメタバース DMM Connect Chat
+
+- 担当：PO、Unityエンジニア
+- Unity, C#, C++, Steam VR
+- https://connect-chat.vrlab.dmm.com/
+- ボーカロイド「GUMI」のライブなど複数イベントを開催
 
