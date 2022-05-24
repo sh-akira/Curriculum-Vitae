@@ -204,11 +204,11 @@
 - マップデータから自動でメッシュ生成を行ってイライラ棒をアバターで遊べるゲームモック
 
 
-#### 2019 VRゲーム BOW MAN
+#### 2020 VRゲーム No Sushi, No Life
 
-- 担当：Unityエンジニア
-- Unity, C#, Steam VR, Oculus
-- https://bowman.vrlab.dmm.com/ja/
+- 担当：PO
+- Unity, C#, Steam VR
+- https://store.steampowered.com/app/1481430/No_Sushi_No_Life/
 
 #### 2020-22 VRメタバース DMM Connect Chat
 
