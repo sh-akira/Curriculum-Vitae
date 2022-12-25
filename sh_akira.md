@@ -217,3 +217,12 @@
 - https://connect-chat.vrlab.dmm.com/
 - ボーカロイド「GUMI」のライブなど複数イベントを開催
 
+### 2022/08 - : ソニー株式会社
+
+職務: エンジニア、コミュニティマネジメント  
+
+#### 2022 モバイルモーションキャプチャー mocopi
+
+- 担当：Unityエンジニア
+- Unity, C#, Android, iOS
+- https://www.sony.jp/mocopi/
